@@ -1,5 +1,5 @@
 # ISULOT
-Bu uygulama okulumuzdaki az olan park yeri sorunundan ötürü, okula araba veya toplu taşıma ile gelmenin daha mantıklı olup olmayacağını hesaplamamız için boş ve dolu olan park yerlerini gösteren bir uygulamadır.
+Öncelikle şunu söylemek isterim ki hazırladığım uygulama bakıldığında sadece okulumuz amaçlı değil, herhangi bir otoparkta da kullanılabilir ama uygulamaya bir isim vermek ve rengini mavi temalı yapabilmek için ISULOT koydum ve bu bahsettiğim konudan ötürü de dosya adını parking_lot olarak bırakmak istedim. Tanıtmak gerekirse bu uygulama, okulumuzdaki az olan park yeri sorunundan ötürü, okula araba veya toplu taşıma ile gelmenin daha mantıklı olup olmayacağını hesaplamamız için boş ve dolu olan park yerlerini gösteren bir uygulamadır.
 
 ---
 # Ekran Görüntüleri
